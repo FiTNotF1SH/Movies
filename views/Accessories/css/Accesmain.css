@@ -1672,7 +1672,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #fd7e84 url("images/overlay.png");
+			background: #f1e6e6 url("images/overlay.png");
 			color: #060000;
 		}
 
