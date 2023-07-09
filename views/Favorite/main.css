@@ -2064,8 +2064,9 @@ input, select, textarea {
 		height: 24em;
 
 		/* background: url("../../images/banner.jpg") center center; */
-		/* background-color: #242730; */
-		background: url("img/netflix-gradient.png");
+		/* background-color: #fcfcfc; */
+		background: url("https://img.freepik.com/premium-photo/gradient-blur-red-abstract-background_667461-807.jpg");
+		/* transform: rotate(180deg); */
 
 		background-size: cover;
 		padding: 0;
@@ -2097,14 +2098,14 @@ input, select, textarea {
 		#logo h1 {
 			font-weight: 900;
 			text-transform: uppercase;
-			color: #fff;
-			font-size: 2em;
+			color: #9b0b12;
+			font-size: 3em;
 			letter-spacing: 0.25em;
 		}
 
 		#logo p {
-			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: #E50914;
+			color: #9b0b12;
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
@@ -2126,7 +2127,7 @@ input, select, textarea {
 		#nav > ul {
 			display: inline-block;
 			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+			box-shadow: inset 0px 0px 1px 1px #E50914;
 			padding: 0 1.5em 0 1.5em;
 		}
 
@@ -2142,11 +2143,11 @@ input, select, textarea {
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: #eee;
-					color: rgba(255, 255, 255, 0.75);
+					color: #E50914;
+					color: #9b0b12(255, 255, 255, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 1em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
@@ -2159,11 +2160,11 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a {
-					color: #fff;
+					color: #9b0b12;
 				}
 
 				#nav > ul > li.active > a, #nav > ul > li.active > span {
-					color: #fff;
+					color: #9b0b12;
 				}
 
 	.dropotron {
