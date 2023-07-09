@@ -72,14 +72,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-.active{
-	color: white;
-	background-color: #6a5b5b;
-	opacity: 0.6;
-	z-index:-3;
-	
-  }
-
 /* Basic */
 
 	@-ms-viewport {
